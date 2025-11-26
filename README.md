@@ -55,7 +55,3 @@ Hypothesis tests showed:
 
 Sanjana Addanki  
 A/B Testing Evaluation — E-News Express
-
-
-## Repository Structure
-
